@@ -5,7 +5,7 @@ date:   2018-09-10 17:44:22 -0500
 categories:
 ---
 
-![flying home](/images/week10.jpg)
+![flying home](/iowa/images/week10.jpg)
 *Flying home, plane over Minneapolis*
 
 I am posting this way after my actual week 10 of research, but with memories and insights that have lasted! Week 10 went by the fastest of them all-- I sent in my project for evaluation and a paper for CHI with my name on it. I spent this last week writing up my project report, saying my goodbyes, and presenting my experience at our last HCI lab meeting. 
