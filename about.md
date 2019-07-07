@@ -3,12 +3,12 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img style="float: left;" src="/images/amelia.png" width="250px"/>
+<img style="float: left;" src="/iowa/images/amelia.png" width="250px"/>
 <br><br><br>
 Hello! I am a junior at the University of Washington majoring in Human Centered Design and Engineering, planning to graduate in 2020. I will be documenting my 10 weeks at the University of Iowa's Computer Science department here through the CRA-W's DREU program.
 
 <br><br>
-<img style="float: right;" src="/images/kyle.png" width="250px"/>
+<img style="float: right;" src="/iowa/images/kyle.png" width="250px"/>
 # My Mentor
 
 
