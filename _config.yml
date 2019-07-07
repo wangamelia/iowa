@@ -25,7 +25,7 @@ github_username:  wangamelia
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minima
+theme: minima
 plugins:
   - jekyll-feed
 
